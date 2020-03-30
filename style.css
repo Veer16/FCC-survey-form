@@ -55,3 +55,23 @@ p {
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
+
+.container {
+    max-width: 100%;
+
+}
+
+.header {
+    padding: 0 0.625rem;
+    margin-bottom: 1.875rem;
+}
+
+.description {
+    font-style: italic;
+    font-weight: 200;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+.text-center {
+    text-align: center;
+}
